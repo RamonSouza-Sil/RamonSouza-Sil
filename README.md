@@ -2,8 +2,7 @@
 
 
 
-- 📚 Estudante de GameDev e Front-End
-- 😄 Pronomes: Ele/Dele
+- 📚 Estudante de GameDev 
 
 
 <div align="center">
