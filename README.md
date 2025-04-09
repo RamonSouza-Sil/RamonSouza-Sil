@@ -26,6 +26,6 @@
 ## Onde me encontrar
 [![Linkedin](https://img.shields.io/badge/-RamonSouza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ramonsouzadasilva/)](https://www.linkedin.com/in/ramonsouzadasilva/)
 [![Gmail Badge](https://img.shields.io/badge/-ramonsouzasil2004@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/RamonSouza-Sil)
+
   
 </div>
